@@ -15,7 +15,7 @@ function Person(name, age) {
 var eliza = new Person("Eliza", 48);
 console.log(eliza.privateVariable);
 // undefined!
-/////////////////////////////////////////////////////
+////////////////////////////////////////////////////////
 
 function Person(name, age) {
     var privateVariable = "This variable is private";

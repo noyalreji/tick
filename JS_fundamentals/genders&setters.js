@@ -3,7 +3,7 @@ class Pizza {
         this.radius = radius;
         this._slices = slices;
     }
-    get slices () { 
+    get slices() { 
         return this._slices; 
     }
     set slices (slices) { 

@@ -50,3 +50,9 @@ leadBootcamp('java_android', Mike);
 leadBootcamp('java_android', Charlie);
 leadBootcamp('java_android', Jimmy);
 
+// This is a function that just prints the result of another list of instructions
+function printResult(doSomething) {
+ var result = doSomething();         // store the return value of the callback parameter
+ console.log(result);                // print the result!
+}
+

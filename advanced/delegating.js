@@ -4,7 +4,7 @@ function leadBootcamp(language, leader){
 }
 function Mike(language){
   var languages={
-    'javascript':'successful leader',
+    'javascript':'successfull leader',
     'PHP':'successful leader',
     'Python':'successful leader',
     'Ruby':'successful leader',

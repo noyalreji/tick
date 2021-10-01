@@ -8,7 +8,7 @@ class Dot {
         console.log(`This Dot is at x ${this.x} and y ${this.y}`);
     }
 }
-// child Circle class
+// child Circle class//
 class Circle extends Dot {
     constructor(x, y, radius) {
         super(x, y);

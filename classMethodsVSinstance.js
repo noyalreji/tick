@@ -3,7 +3,7 @@ class Dot {
         this.x = x;
         this.y = y;
     }
-    // prototype method
+    // prototype method//
     showLocation() {
         console.log(`This Dot is at x ${this.x} and y ${this.y}`);
     }

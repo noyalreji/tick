@@ -1,4 +1,4 @@
-// assuming you have jQuery//////
+// assuming you have jQuery///////
 $(document).ready(function(){
     var favoritePokemon;
     // the given link is for Bulbasaur's information
